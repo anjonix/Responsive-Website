@@ -1,0 +1,31 @@
+body
+{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    background: url(..//Images/image6.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}
+header
+{
+    background-color: yellow;
+    height: 112px;
+    line-height: 112px;
+}
+ul {
+    list-style: none;
+}
+ul li 
+{
+    display: inline-block;
+}
+header nav
+{
+    float: right;
+}
+.logo img
+{
+margin-top: 7px;
+}

@@ -1,0 +1,10 @@
+body
+{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    background: url(..//Images/image6.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif
+}

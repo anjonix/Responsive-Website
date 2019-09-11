@@ -1,0 +1,49 @@
+*,html,body
+{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    margin: 0;
+    padding-top: 100px;
+    text-emphasis: center;
+    background-image: url(..//Images/image7.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+}
+header
+{
+    background-color: yellow;
+    height: 112px;
+    line-height: 112px;
+}
+ul {
+    list-style: none;
+}
+ul li 
+{
+    display: inline-block;
+}
+header nav
+{
+    float: right;
+}
+.logo img
+{
+margin-top: 7px;
+}
+header nav ul li a
+{
+    padding-right: 30px;
+    font-weight: bold;
+    text-decoration-line: none;
+    color: black;
+    transition: all 0.5s ease-in;
+}
+header nav ul li a:hover
+{
+    text-decoration: none;
+    color: #ffffff;
+}
