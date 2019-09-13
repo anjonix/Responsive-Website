@@ -76,12 +76,10 @@ header nav ul li a:hover
 }
 .slider a.btn-half:hover
 {
-    background-color: chartreuse;
     opacity: 0.3px;
 }
 .slider a.btn-full:hover
 {
-    background-color: coral;
     opacity: 0.3px;
     transition: 0.5s;
 }

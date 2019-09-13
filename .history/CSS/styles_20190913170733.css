@@ -52,11 +52,11 @@ header nav ul li a:hover
 .slider h2
 {
     font-weight: bold;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 .slider span
 {
-    color: green;
+    color: orange;
 }
 .slider a{
     padding: 10px 40px;
@@ -66,8 +66,8 @@ header nav ul li a:hover
 }
 .slider a.btn-half
 {
-    background-color: black;
-    color:yellow;
+    background-color: white;
+    color: white;
 }
 .slider a.btn-full
 {
